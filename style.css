@@ -185,7 +185,6 @@ main button {
 .container .box {
   position: relative;
   width: 350px;
-  height: 350px;
   padding: 40px;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
   border-radius: 4px;
